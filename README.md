@@ -1,4 +1,3 @@
-# portfoliodev
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -828,7 +827,7 @@
 
 <!-- NAVIGATION -->
 <nav>
-  <div class="nav-logo">TK Ray // Portfolio</div>
+  <div class="nav-logo">TKR // Portfolio</div>
   <ul class="nav-links">
     <li><a href="#about">About</a></li>
     <li><a href="#research">Research</a></li>
@@ -897,8 +896,7 @@
 
 <!-- STATS -->
 <section class="reveal">
- <div class="stat-card">
-  <div class="stat-card">
+  <div class="stats-grid">
     <div class="stat-card">
       <div class="stat-num">7</div>
       <div class="stat-label">Research Papers</div>
@@ -916,7 +914,6 @@
       <div class="stat-label">Intl. Conferences</div>
     </div>
   </div>
- </div>
 </section>
 
 <hr class="section-divider" />
