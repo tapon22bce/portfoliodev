@@ -897,7 +897,6 @@
 
 <!-- STATS -->
 <section class="reveal">
-  <div class="stats-grid">
     <div class="stat-card">
       <div class="stat-num">7</div>
       <div class="stat-label">Research Papers</div>
@@ -914,7 +913,6 @@
       <div class="stat-num">3</div>
       <div class="stat-label">Intl. Conferences</div>
     </div>
-  </div>
 </section>
 
 <hr class="section-divider" />
