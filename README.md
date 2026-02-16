@@ -840,7 +840,6 @@
     Open to Opportunities
   </div>
 </nav>
-
 <!-- HERO -->
 <div class="hero" id="about">
   <div class="hero-tag">// Researcher · Builder · Collaborator</div>
